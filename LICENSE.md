@@ -1,4 +1,4 @@
-
+Enhance Things 3 for macOS with new Workflow for Things 3 for macOS - collaboration and quick search, the #1 workflow. Includes collaboration and quick search for a smoother
 
 
 
